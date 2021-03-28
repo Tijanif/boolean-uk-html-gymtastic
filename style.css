@@ -96,7 +96,6 @@
 .Footer {
   background-color: rgb(70, 139, 172);
   padding-top: 10px;
-  padding-top: 15px;
   padding-left: 10px;
   margin-top: 15px;
   color: white;
@@ -106,18 +105,16 @@
   padding: 0;
   margin: 0;
   margin-bottom: 10px;
-  font-size: 90%;
 }
 
 .Footer P {
-  font-size: 17px;
+  font-size: 14px;
   margin: 0;
-  font-size: 85%;
 }
 
 .Footer ul {
-  font-size: 17px;
+  font-size: 10px;
   margin: 0;
-  font-size: 65%;
   margin-left: 20px;
+  list-style-type: none;
 }
